@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 07 10:23:38 CST 2020
-nms-1.12-R1.jar>=
-nms-1.12-R1.pom>=
+#Sat Nov 07 11:17:31 CST 2020
+nms-1.8-R3-1.0.jar>=
+nms-1.8-R3-1.0.pom>=
