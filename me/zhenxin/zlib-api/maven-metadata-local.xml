@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>me.zhenxin.mc</groupId>
-  <artifactId>zlib</artifactId>
+  <groupId>me.zhenxin</groupId>
+  <artifactId>zlib-api</artifactId>
   <versioning>
     <release>1.1</release>
     <versions>
-      <version>1.0</version>
       <version>1.1</version>
     </versions>
-    <lastUpdated>20210124082846</lastUpdated>
+    <lastUpdated>20210124092746</lastUpdated>
   </versioning>
 </metadata>
