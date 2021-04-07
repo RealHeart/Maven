@@ -1,0 +1,118 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "me.zhenxin",
+    "module": "zlib-api",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "patk55m62nhfxckl2y5ldhzmm4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.4.32"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "zlib-api-1.0.jar",
+          "url": "zlib-api-1.0.jar",
+          "size": 8209,
+          "sha512": "f63bd11e42fa57dfc638a862c4fbece760bafb70252b27055aed21ff1f2dff938263fff0aaf9c78789309efc1e7da206ca5654904ceb8c2efd3aafcff05a1ded",
+          "sha256": "1bdbaf093146d03e10457418103b68cbe7f015c0d92ca91f1a0270a41ce5123b",
+          "sha1": "9ac49e76d6f2df28e21bed2645840e00f1d8660b",
+          "md5": "daa6d02c0fa03c91aa823b221a53a0df"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.zxing",
+          "module": "core",
+          "version": {
+            "requires": "3.4.1"
+          }
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-core",
+          "version": {
+            "requires": "5.6.2"
+          }
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-http",
+          "version": {
+            "requires": "5.6.2"
+          }
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-json",
+          "version": {
+            "requires": "5.6.2"
+          }
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-extra",
+          "version": {
+            "requires": "5.6.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.4.32"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "zlib-api-1.0.jar",
+          "url": "zlib-api-1.0.jar",
+          "size": 8209,
+          "sha512": "f63bd11e42fa57dfc638a862c4fbece760bafb70252b27055aed21ff1f2dff938263fff0aaf9c78789309efc1e7da206ca5654904ceb8c2efd3aafcff05a1ded",
+          "sha256": "1bdbaf093146d03e10457418103b68cbe7f015c0d92ca91f1a0270a41ce5123b",
+          "sha1": "9ac49e76d6f2df28e21bed2645840e00f1d8660b",
+          "md5": "daa6d02c0fa03c91aa823b221a53a0df"
+        }
+      ]
+    }
+  ]
+}
