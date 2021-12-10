@@ -3,15 +3,14 @@
   <groupId>me.zhenxin</groupId>
   <artifactId>qq-official-bot-sdk</artifactId>
   <versioning>
-    <release>0.0.4-SNAPSHOT-1</release>
+    <release>0.0.5-SNAPSHOT</release>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
       <version>0.0.2-SNAPSHOT</version>
       <version>0.0.3-SNAPSHOT</version>
       <version>0.0.4-SNAPSHOT</version>
-      <version>0.0.4-SNAPSHOT-1</version>
       <version>0.0.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20211210092904</lastUpdated>
+    <lastUpdated>20211210122518</lastUpdated>
   </versioning>
 </metadata>
