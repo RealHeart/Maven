@@ -4,8 +4,11 @@
   <artifactId>qq-official-bot-sdk</artifactId>
   <versioning>
     <versions>
+      <version>0.0.1-SNAPSHOT</version>
+      <version>0.0.2-SNAPSHOT</version>
       <version>0.0.3-SNAPSHOT</version>
+      <version>0.0.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20211209170649</lastUpdated>
+    <lastUpdated>20211210083729</lastUpdated>
   </versioning>
 </metadata>
