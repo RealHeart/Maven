@@ -3,7 +3,7 @@
   <groupId>me.zhenxin</groupId>
   <artifactId>qq-official-bot-sdk</artifactId>
   <versioning>
-    <release>0.0.9-SNAPSHOT</release>
+    <release>0.0.10-SNAPSHOT</release>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
       <version>0.0.2-SNAPSHOT</version>
@@ -14,7 +14,8 @@
       <version>0.0.7-SNAPSHOT</version>
       <version>0.0.8-SNAPSHOT</version>
       <version>0.0.9-SNAPSHOT</version>
+      <version>0.0.10-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20211224054617</lastUpdated>
+    <lastUpdated>20211228042834</lastUpdated>
   </versioning>
 </metadata>
